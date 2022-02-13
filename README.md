@@ -8,3 +8,4 @@ Skills :- CPP, Python, Golang, Machine learning.
 
 Just starting my journey, but hoping to achieve something................
 
+<img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
