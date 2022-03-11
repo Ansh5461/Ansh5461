@@ -13,4 +13,6 @@ Just starting my journey, but hoping to achieve something................
 
 Find <img width=80 src = "https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"/> solutions in Golang in one of my repositories
 
-Learning gRPC Golang, and looking for opportunities.
+Learning gRPC Golang now, and looking for opportunities in ML and Golang.....
+
+Also check out some of my repositories for some cool projects I did.
