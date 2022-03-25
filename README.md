@@ -21,8 +21,6 @@ Specialised in Machine learning. Certified from Duke University(Coursera), and s
 
 Also fluent in CPP DSA, and constantly learning that. 
 
-Skills :- CPP, Python, Golang, Machine learning.
-
 Just starting my journey, but hoping to achieve something................
 
 
