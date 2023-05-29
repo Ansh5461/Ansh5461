@@ -15,7 +15,7 @@
 
 <br>
 <br>
-Myself Ansh Joshi. I am a computer science engineer by profession. Currently studying in Lovely Professional University, Punjab.<br>
+Myself Ansh Joshi. I am a computer science engineer by profession. Currently studying in Lovely Professional University, Punjab.<br><br>
 
 Backend Dev by profession. Tech stacks having expertise in :- Golang, Python, Rust, Cassandra, MongoDB, PostgreSQL, MySQL. <br>
 
