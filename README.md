@@ -15,9 +15,11 @@
 
 <br>
 <br>
-Myself Ansh Joshi. I am a computer science engineer by profession. Currently studying in Lovely Professional University, Punjab
- 
-Specialised in Machine learning. Certified from Duke University(Coursera), and simplilearn in machine learning itself. Also learning backend development and blockchain in golang.
+Myself Ansh Joshi. I am a computer science engineer by profession. Currently studying in Lovely Professional University, Punjab.<br>
+
+Backend Dev by profession. Tech stacks having expertise in :- Golang, Python, Rust, Cassandra, MongoDB, PostgreSQL, MySQL. <br>
+
+Specialised in Machine learning. Certified from Duke University(Coursera), and simplilearn in machine learning itself.
 
 Also fluent in CPP DSA, and constantly learning that. 
 
