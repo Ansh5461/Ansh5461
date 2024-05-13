@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/ansh-joshi-626bb8184/" rel="nofollow">
-  LinkedIn
+  LinkedIn |
 </a>
 
 <a href="https://t.me/ansh_joshi" rel="nofollow">
-  Telegram
+  Telegram |
 </a>
 
 <a href="https://instagram.com/anshjoshi5461/" rel="nofollow">
